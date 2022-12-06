@@ -1,0 +1,1 @@
+-Hi,here is dwarf fortress chinese localization project
